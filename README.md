@@ -5,7 +5,7 @@ Algoritma yang bisa digunakan di R untuk melakukan MBA ini adalah apriori dari p
 <li>dipaketkan dan dijual bersamaan.</li>
 <li>memberikan rekomendasi produk kepada seseorang.</li>
 <li>menyusun rak display.</li>
-<li>menyusun halaman produk e-commerce.</li></ol?
+  <li>menyusun halaman produk e-commerce.</li></ol></p>
 Semua hal ini bertujuan untuk meningkatkan penjualan sekaligus memecahkan masalah inventory – karena produk yang tidak begitu laku jika dipasangkan dengan tepat akan lebih menarik dan punya kemungkinan besar dibeli dalam satu paket. Proses ini merupakan proses analisa yang disebut dengan Market Basket Analysis (MBA). </p>
 <details>
   <summary><b>Contoh Code Market Basket Analysis di R</b></br>#Menggunakan library arules</br>
